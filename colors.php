@@ -7,6 +7,6 @@ $yellow = "#ffff00";   // 3
 $blue = "#0000ff";     // 4
 $magenta = "#ff00ff";  // 5
 $cyan = "#00ffff";     // 6
-$white = "#ffffff";    / 7
+$white = "#ffffff";    // 7
 
  
